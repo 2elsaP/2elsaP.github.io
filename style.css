@@ -1,0 +1,68 @@
+*{box-sizing: border-box;
+    padding: 0px;
+    margin:0px
+}
+img{
+    width: 500px;
+    display: block;
+    margin: 0px auto;
+}
+h2{
+    text-align: center;
+    background-color: red;
+    padding: 12px;
+
+}
+body{
+    background-color: black;
+    margin: 10px auto;
+width: 100%;
+
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
+.rosso{
+    background-color: red;
+    color: black;
+}
+ul{
+    background-color: red;
+    padding: 20px;
+    color: black;
+    text-decoration: none;
+
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a{
+    display: block;
+}
+
+h2:hover{
+    background-color: black;
+    color: red;
+}
+img:hover{
+    background-color: red;
+
+}
+.pa:hover{
+    color: black;
+    background-color: red;
+    font-size: 30px;
+}
